@@ -1,0 +1,6 @@
+{
+  "name": "Synthetix AI",
+  "description": "AI-powered customer feedback analytics tool for tech companies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
